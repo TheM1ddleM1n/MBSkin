@@ -91,14 +91,7 @@ Change any of the 9 `SKIN_ID` variables in code to one of the above.
 
 ---
 
-## 📜 License
-
-This project is for educational purposes only.  
-See the [`LICENSE`](LICENSE) file for more details.
-
----
-
 Enjoy!!!  
 **– TheM1ddleM1n**
 
-<sub>Code originally made by MineTrumps. Thank you very much!</sub>
+<sub>Code originally made by [MOD] MineTrumps. Thank you very much!</sub>
