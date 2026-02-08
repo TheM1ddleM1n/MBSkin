@@ -3,7 +3,7 @@
     const SKIN_ID = "duck";              // ONLY replace this
 
     if (TOKEN === "your_token_goes_here") {
-        console.error("Token not set. Run token.js first.");
+        console.error("Uh oh! The token was not set. Please run token.js first to get a token.");
         return;
     }
 
@@ -25,13 +25,13 @@
 
         if (!res.ok) throw new Error(res.status);
 
-        console.log("Skin applied.");
+        console.log("Skin was successfully applied!");
         await res.json();
 
         if (confirm("Skin applied successfully.\nReload page to apply changes?")) {
             location.reload();
         }
     } catch (e) {
-        console.error("Failed to apply skin:", e);
+        console.error("Welp. Failed to apply skin:", e);
     }
 })();
