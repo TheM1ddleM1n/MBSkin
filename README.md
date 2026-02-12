@@ -90,7 +90,6 @@ Change any of the 9 `SKIN_ID` variables in code to one of the above
 
 ---
 
-Enjoy!!!  
-**– from TheM1ddleM1n**
+Enjoy!!
 
 <sub>This Code was originally made by [MOD] MineTrumps. Thank you very much!</sub>
