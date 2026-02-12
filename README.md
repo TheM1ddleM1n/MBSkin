@@ -1,4 +1,4 @@
-# MinibloxSkinCommand
+# MBSkin
 This is a step by step on how to get the secret miniblox skins 🤫
 
 A simple console-based tool to change your Miniblox skin in game!
