@@ -3,7 +3,7 @@
     const SKIN_ID = "duck";              // ONLY replace this
 
     if (TOKEN === "your_token_goes_here") {
-        console.error("Uh oh! The token was not set. Please run token.js first to get a token.");
+        console.error("Uh oh! The token was not set. Run token.js first.");
         return;
     }
 
@@ -28,7 +28,7 @@
         console.log("Skin was successfully applied!");
         await res.json();
 
-        if (confirm("Skin applied successfully.\nReload page to apply changes?")) {
+        if (confirm("Skin was applied successfully.\nReload page to apply changes?")) {
             location.reload();
         }
     } catch (e) {
