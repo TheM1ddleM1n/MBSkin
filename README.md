@@ -10,15 +10,14 @@ A simple console-based tool to change your Miniblox skin in game!
 
 - **NEVER share your token with anyone** – your token gives full access to your miniblox account.
 - **Use only on your own account** – using this on accounts you don’t own is against Miniblox Terms of Service.
-- **Use at your own risk**
-- **Treat your token like your password** – please keep it safe and secure. I am not responsible for your ban.
+- **Treat your token like your password** – please keep it safe and secure. I will not be responsible for your ban.
 
 ---
 
 ## 🛠️ Prerequisites
 
-- A supported web browser (Chrome, Edge, Firefox recommended)
-- A Miniblox account that you are logged into or otherwise it will NOT work (non accounted players)
+- A supported web browser (Chrome is RECOMMENDED)
+- A Miniblox account that you are logged into.
 
 ---
 
@@ -27,7 +26,7 @@ A simple console-based tool to change your Miniblox skin in game!
 ### Step 1: Get Your Token
 
 1. Open Miniblox in your web browser.
-2. Press <kbd>F12</kbd> to open the Developer Console.
+2. Press <kbd>F12</kbd> to open the Console.
 3. Paste the contents of `token.js` into the console and press Enter.
 4. Copy and securely store the token that appears.
 
@@ -35,9 +34,9 @@ A simple console-based tool to change your Miniblox skin in game!
 
 1. Open `skin.js` in a text editor.
 2. Replace `"your_token_goes_here"` in the code with the token from Step 1.
-3. *(Optional)* Change `SKIN_ID` to your chosen skin (see the list below).
+3. Change the `SKIN_ID` to your chosen skin (see the list below).
 4. Paste the updated code into your browser console, press Enter.
-5. Refresh the page to see your new skin.
+5. Refresh the page to see your new skin :)
 
 ---
 
@@ -55,7 +54,7 @@ A simple console-based tool to change your Miniblox skin in game!
 | Banana    | `"banana"`   |
 | Qhyun     | `"qhyun"`    |
 
-Change any of the 9 `SKIN_ID` variables in code to one of the above.
+Change any of the 9 `SKIN_ID` variables in code to one of the above
 
 ---
 
@@ -94,4 +93,4 @@ Change any of the 9 `SKIN_ID` variables in code to one of the above.
 Enjoy!!!  
 **– from TheM1ddleM1n**
 
-<sub>Code originally made by [MOD] MineTrumps. Thank you very much!</sub>
+<sub>This Code was originally made by [MOD] MineTrumps. Thank you very much!</sub>
