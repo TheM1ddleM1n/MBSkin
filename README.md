@@ -1,7 +1,6 @@
 # MBSkin
-This is a step by step on how to get the secret miniblox skins 🤫 lol
 
-A simple console-based tool to change your Miniblox skin in game!
+A simple console-based tool to change your Miniblox skin in game
 **Please use responsibly and only on your own account.**
 
 ---
@@ -21,7 +20,7 @@ A simple console-based tool to change your Miniblox skin in game!
 
 ---
 
-## Getting Started
+## Getting Started (Step by Step)
 
 ### Step 1: Get Your Token
 
